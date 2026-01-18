@@ -1,0 +1,53 @@
+body{
+    background-image: url(estacao.jpg);
+    background-size: cover;
+    color: rgb(1, 26, 50);
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+#counter{
+    color: rgb(1, 26, 50);
+}
+
+h1{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-shadow: 0px 0px 10px white;
+    
+}
+
+h2{
+    font-size: 50px;
+    text-shadow: 0px 0px 10px white;
+    margin-bottom: 20px;
+}
+
+#inc, #dec, #res, #save, #load{
+    margin-top: 20px;
+    padding: 10px 30px;
+    font-size: 25px;
+    background-color: darkgreen;
+    border-radius: 5px;
+    color: white;
+}
+
+#dec{
+    background-color: darkred;
+
+}
+
+#res {
+    background-color: darkblue;
+
+}
+
+#save{
+    background-color: darkorange;
+}
+
+#load{
+    background-color: darkmagenta;
+}
