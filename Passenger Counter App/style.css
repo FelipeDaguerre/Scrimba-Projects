@@ -8,6 +8,13 @@ body{
     
 
 }
+
+#buttons{
+    display: flex;
+    justify-content: center;
+
+}
+
 #counter{
     color: rgb(1, 26, 50);
 }
@@ -50,4 +57,5 @@ h2{
 
 #load{
     background-color: darkmagenta;
+
 }
