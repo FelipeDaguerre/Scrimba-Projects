@@ -1,0 +1,37 @@
+/* Parte visual  */
+body{
+    text-align: center;
+    background-image: url(green-background.jpg);
+    background-size: cover;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+
+h1{
+    color: goldenrod;
+    font-size: 50px
+}
+
+
+#mensagem-p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-style: italic;
+}
+
+/* Funções */
+
+button{
+    font-size: 35px;
+    background-color: goldenrod;
+    color: darkgreen;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 25px;
+    margin-bottom: 5px;
+}
+
+button:active{
+    background-color: rgb(193, 142, 13);
+}
